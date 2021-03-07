@@ -1,11 +1,12 @@
 body {
   background-color: #1a1a1a;
+    font-family: Helvetica, sans-serif;
 }
 
 h1 {
   color: white;
   margin-left: 20px;
-  font-family: "Lucida Console", "Courier New", monospace;
+
 }
 
 .smieci {
