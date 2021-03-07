@@ -5,14 +5,27 @@ body {
 h1 {
   color: white;
   margin-left: 20px;
-    font-family: "Lucida Console", "Courier New", monospace;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 
-div.smieci {
-  width: 600px;
-  margin: auto;
+.smieci {
+  position:absolute;
+  left:600px;
+  top:150px;
+  color: white;
 }
 
-p.wzium{
+.title{
+  font-size: 200%;
+
+}
+
+.footer{
+  color: white;
+  font-size: 100%;
+}
+
+.list{
+  font-size: 130%;
   color: white;
 }
