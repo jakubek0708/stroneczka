@@ -5,3 +5,4 @@ var r=255,g=0,b=0;
 console.log("SAUCE:")
 for (i = 0; i < len; i++) {
   console.log(sauce[i]);
+}
