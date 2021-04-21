@@ -1,0 +1,22 @@
+{
+  "name": "stroneczka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakubek0708/stroneczka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakubek0708/stroneczka/issues"
+  },
+  "homepage": "https://github.com/jakubek0708/stroneczka#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
